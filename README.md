@@ -54,14 +54,12 @@ PostgreSQL · MySQL · MongoDB · Redis · Docker · Git · JWT · CI/CD
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRADEEPRAWAT55&show_icons=true&hide_title=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRADEEPRAWAT55" />
 </p>
-
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
 ---
 
@@ -69,9 +67,9 @@ PostgreSQL · MySQL · MongoDB · Redis · Docker · Git · JWT · CI/CD
 
 I don’t chase trends.  
 I build:
-- APIs that don’t break
-- UIs that don’t freeze
-- systems that don’t panic at scale
+- APIs that don’t break  
+- UIs that don’t freeze  
+- systems that don’t panic at scale  
 
 Clean architecture > clever hacks.
 
