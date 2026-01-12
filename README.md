@@ -51,15 +51,20 @@ PostgreSQL · MySQL · MongoDB · Redis · Docker · Git · JWT · CI/CD
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRADEEPRAWAT55&show_icons=true&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRADEEPRAWAT55&show_icons=true&count_private=true&hide=issues" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRADEEPRAWAT55" />
+  <img src="https://streak-stats.demolab.com?user=PRADEEPRAWAT55" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRADEEPRAWAT55&layout=compact" />
+</p>
+
 
 ---
 
