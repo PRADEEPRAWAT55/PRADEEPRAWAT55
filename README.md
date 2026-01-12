@@ -1,80 +1,85 @@
 # ⚡ Pradeep Rawat  
 **Full-Stack Engineer · React · React Native · NestJS · Express**
 
-I don’t build demos.  
-I build **systems that survive real users, real traffic, and real bugs**.
+> Building systems that don’t fall apart under real users.
 
-3+ years deep into shipping production apps across web & mobile — from slick UIs to battle-tested APIs.
-
----
-
-## 🧠 What I’m good at
-
-I live at the intersection of:
-
-- **Fast frontends** (React, AG Grid, Tailwind)
-- **Reliable backends** (NestJS, Express, REST, WebSockets)
-- **Real data** (PostgreSQL, Redis, TypeORM)
-- **Real users** (OTP auth, refresh tokens, offline-first apps)
-
-I optimize for:
-> performance · stability · clean architecture · zero-drama deployments
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradeep%20Rawat-blue?logo=linkedin)](https://www.linkedin.com/in/pradeep-rawat-psr)
 
 ---
 
-## 🚀 Stuff I’ve shipped
+## 👋 Who I am
+
+I’m a **Full-Stack Engineer with 3+ years of production experience** shipping web and mobile applications used by real teams and real businesses.
+
+I focus on:
+- performance over pretty lies  
+- reliability over quick hacks  
+- systems that scale without drama  
+
+---
+
+## 🚀 What I ship
 
 ### 🧾 Enterprise Operations Platform (FMI / AFF)
-- Handled **10,000+ row tables** with zero UI freeze  
-- Designed **OTP + JWT auth** with refresh token rotation  
-- Built **real-time alerts** via WebSockets  
-- Used **Redis caching** → cut API latency by **60%**
+- Rendered **10,000+ row grids** using AG Grid without UI lag  
+- Built **OTP + JWT authentication** with refresh token rotation  
+- Implemented **real-time emergency alerts** via WebSockets  
+- Added **Redis caching** → reduced API response time by **60%**
 
 ### 📱 React Native Field App
-- Offline-first using **AsyncStorage + Realm**
-- Background sync with conflict resolution
-- Deployed to real users doing real work
+- Built **offline-first architecture** using AsyncStorage + Realm  
+- Implemented background sync with conflict resolution  
+- Deployed to production for real field teams  
 
 ### ⚙️ Backend Systems
-- Secure APIs in **NestJS & Express**
-- Role-based access
-- Caching, queues, rate limiting
-- Production-ready auth flows
+- Designed APIs with **NestJS & Express**
+- Built **secure auth, role-based access, rate limiting**
+- Integrated Redis for **caching + async queues**
 
 ---
 
-## 🧩 My stack
+## 🧠 Tech I actually use
 
 **Frontend**  
-React · React Native · Tailwind · Bootstrap
+React · React Native · Tailwind · Bootstrap · AG Grid  
 
 **Backend**  
-NestJS · Express · Node.js · WebSockets
+NestJS · Express · Node.js · WebSockets · REST APIs  
 
-**Data**  
-PostgreSQL · MySQL · MongoDB · Redis
+**Data & Infra**  
+PostgreSQL · MySQL · MongoDB · Redis · Docker · Git · JWT · CI/CD  
 
-**Infra**  
-Docker · Git · REST APIs · JWT · CI/CD
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+</p>
+
+> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
 ---
 
 ## 🧠 How I think
 
-I don’t chase frameworks.  
-I care about:
-- not blocking the UI  
-- not breaking prod  
-- not leaking memory  
-- not shipping garbage  
+I don’t chase trends.  
+I build:
+- APIs that don’t break
+- UIs that don’t freeze
+- systems that don’t panic at scale
 
-Clean code > clever code.
+Clean architecture > clever hacks.
 
 ---
 
 ## 📬 Let’s connect
 
 📧 **Pradeep2000rawat@gmail.com**  
-💼 LinkedIn: *(add your link)*
+💼 **LinkedIn** → https://www.linkedin.com/in/pradeep-rawat-psr  
 
-If you’re building something that actually matters — I’m down.
+If you’re building something serious — I’m in 🚀
