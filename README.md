@@ -1,27 +1,30 @@
 # ⚡ Pradeep Rawat  
 **Full-Stack Engineer · React · React Native · NestJS · Express**
 
-> Building systems that don’t fall apart under real users.
+> I build systems that don’t fall apart under real users.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradeep%20Rawat-blue?logo=linkedin)](https://www.linkedin.com/in/pradeep-rawat-psr)
+🔗 LinkedIn → https://www.linkedin.com/in/pradeep-rawat-psr  
+📧 Email → Pradeep2000rawat@gmail.com  
 
 ---
 
 ## 👋 Who I am
 
-I’m a **Full-Stack Engineer with 3+ years of production experience** shipping web and mobile applications used by real teams and real businesses.
+I’m a **Full-Stack Engineer with 3+ years of production experience** building web and mobile applications used by real businesses.
 
-I focus on:
+I care about:
 - performance over pretty lies  
-- reliability over quick hacks  
+- reliability over shortcuts  
 - systems that scale without drama  
+
+If it ships to production, I take it seriously.
 
 ---
 
-## 🚀 What I ship
+## 🚀 What I’ve shipped
 
 ### 🧾 Enterprise Operations Platform (FMI / AFF)
-- Rendered **10,000+ row grids** using AG Grid without UI lag  
+- Rendered **10,000+ row tables** using AG Grid with zero UI freeze  
 - Built **OTP + JWT authentication** with refresh token rotation  
 - Implemented **real-time emergency alerts** via WebSockets  
 - Added **Redis caching** → reduced API response time by **60%**
@@ -32,13 +35,23 @@ I focus on:
 - Deployed to production for real field teams  
 
 ### ⚙️ Backend Systems
-- Designed APIs with **NestJS & Express**
-- Built **secure auth, role-based access, rate limiting**
-- Integrated Redis for **caching + async queues**
+- Designed APIs using **NestJS & Express**  
+- Built **secure auth, role-based access, rate limiting**  
+- Integrated Redis for **caching & async queues**
 
 ---
 
-## 🧠 Tech I actually use
+## 🧠 What I’m working on
+
+- Building **scalable backend APIs** with NestJS & Express  
+- Improving **frontend performance** for large data sets  
+- Designing **real-time systems** with WebSockets  
+- Using **Redis queues** for background jobs  
+- Leveling up **system design & architecture**
+
+---
+
+## 🛠️ Tech I use
 
 **Frontend**  
 React · React Native · Tailwind · Bootstrap · AG Grid  
@@ -48,24 +61,6 @@ NestJS · Express · Node.js · WebSockets · REST APIs
 
 **Data & Infra**  
 PostgreSQL · MySQL · MongoDB · Redis · Docker · Git · JWT · CI/CD  
-
----
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=PRADEEPRAWAT55&show_icons=true&hide_title=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img width="420" src="https://streak-stats.demolab.com?user=PRADEEPRAWAT55" />
-</p>
-
-<p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRADEEPRAWAT55&layout=compact&hide_title=true" />
-</p>
-
 
 ---
 
